@@ -9,9 +9,12 @@ Meu nome é Alessandro Nobre e sou engenheiro de software.
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234682B4?style=flat-square&logo=postgresql&logoColor=white&color=%234682B4)
+![Oracle](https://img.shields.io/badge/Oracle-red?style=flat-square&logo=oracle&logoColor=red&color=%23F8F8FF)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+![Kafka](https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apachekafka&color=black)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-orange?style=flat-square&logo=rabbitmq&color=%23DCDCDC)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
