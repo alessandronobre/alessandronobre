@@ -4,7 +4,7 @@ My name is Alessandro Nobre and I'm a software engineer.
 [![Linkedin: Alessandro Nobre](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alessandro-nobre-1a576215b/)](https://www.linkedin.com/in/alessandro-nobre-1a576215b/)
 
 
-### ⚡ Technologias
+### ⚡ Technology
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
