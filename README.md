@@ -1,5 +1,5 @@
 ### Hello 👋
-My name is Alessandro Nobre and I'm a software engineer.
+Meu nome é Alessandro Nobre e sou engenheiro de software.
 
 [![Linkedin: Alessandro Nobre](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/alessandro-nobre-1a576215b/)](https://www.linkedin.com/in/alessandro-nobre-1a576215b/)
 
